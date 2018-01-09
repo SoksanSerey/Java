@@ -46,5 +46,6 @@ public class AssignFirst {
 		System.out.println("Average: "+avr);
 		System.out.println("Grade: "+grade);
 		System.out.println("Testing from D:");
+		System.out.println("this is testing");
 	}
 }
